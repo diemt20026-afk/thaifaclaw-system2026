@@ -1,0 +1,6 @@
+{
+  "name": "Thai Factory Law Radar & Compliance Assistant",
+  "description": "ระบบตรวจสอบและแจ้งเตือนกฎหมายโรงงานอุตสาหกรรมในประเทศไทย อัปเดตล่าสุด แนวทางปฏิบัติ การประเมินความเสี่ยงและบทลงโทษ พร้อม AI ผู้ช่วยประเมินความสอดคล้อง",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
